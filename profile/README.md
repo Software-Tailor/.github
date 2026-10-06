@@ -1,6 +1,6 @@
 # Software Tailor
 
-**Private AI on hardware you own.** [AI Server](https://softwaretailor.com/docs/ai-server/index.htm) runs models on your
+**Private AI on hardware you own.** [AI Server](https://softwaretailor.com/docs/ai-server/) runs models on your
 own machines behind an **OpenAI-compatible API**. Your tools, agents and apps point at it instead of a cloud provider, and
 prompts and documents stay inside your network.
 
@@ -23,7 +23,7 @@ All samples are **MIT-licensed**: copy what you need into your own product.
 ### Links
 
 [Developer hub](https://softwaretailor.com/developers.htm) ·
-[AI Server docs](https://softwaretailor.com/docs/ai-server/index.htm) ·
+[AI Server docs](https://softwaretailor.com/docs/ai-server/) ·
 [Partner Programme](https://softwaretailor.com/partners/) ·
 [softwaretailor.com](https://softwaretailor.com)
 
